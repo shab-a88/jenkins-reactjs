@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1>Automate react app cicd with jenkins</h1>
+      <h1>renders learn react link</h1>
     </div>
   );
 }
